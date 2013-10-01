@@ -12,7 +12,7 @@ Features:
 Compile:
 ---
 
-Include Wight++.hpp into your source file and compile it with:
+Include octomat.cpp into your source file and compile it with:
 
 * g++ -o test source.cpp
 

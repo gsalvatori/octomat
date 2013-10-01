@@ -50,7 +50,7 @@ class Vector
 	     * @param None;
 	     * @return int;
 	     */
-        size_t size();
+        int size();
 
          /*
 	     * Max element inside a vector
@@ -143,7 +143,7 @@ Vector::Vector(int dim){
 
 }
 
-size_t Vector::size(){
+int Vector::size(){
 
 	return main_v.size();
 

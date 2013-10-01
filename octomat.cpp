@@ -735,7 +735,7 @@ double Matrix::determinant(){
 	}
     
 
-    // creating cofactor matrix from original elements
+
 	Matrix cf_mat(*this);
 
 	for (int i=0; i<rows_num(); i++){
@@ -746,7 +746,7 @@ double Matrix::determinant(){
 		}
 	}
 
-    // segno negativo a componenti alterne considerando la riga
+
 	for (int z=1; z<rows_num()-1; z++){
 
 		cf_mat.main_m[0][z] = main_m[0][z] * -1;

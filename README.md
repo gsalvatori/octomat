@@ -6,7 +6,23 @@ A C++ library to solve linear algebra problems.
 
 Features:
 ---
-* A detailed list of functions will be available soon
+Vector:
+
+*size
+*max
+*push_back
+*is_Empty
+*clear
+*fill_vector
+*isEqual
+*norm
+*visualize
+*operator +
+*operator -
+*operator * (double)
+*operator * (Vector)
+
+Matrix:
 
 
 Compile:

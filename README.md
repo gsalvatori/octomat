@@ -37,4 +37,4 @@ Include octomat.cpp into your source file and compile it with:
 License:
 ---
 
-GNU General Public License v3.0   >   http://www.gnu.org/licenses/gpl.html
+GNU General Public License v3.0 - http://www.gnu.org/licenses/gpl.html

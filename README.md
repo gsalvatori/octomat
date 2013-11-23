@@ -8,7 +8,7 @@ Features:
 ---
 Vector:
 
-*size
+* size
 *max
 *push_back
 *is_Empty

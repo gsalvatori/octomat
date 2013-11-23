@@ -24,6 +24,25 @@ Vector:
 
 Matrix:
 
+* rows_num                      :
+* cols_num                      :
+* isNull                        :
+* fill_matrix                   :
+* print_matrix                  :
+* get_row                       :
+* get_col                       :
+* isEqual                       :
+* isDiagonal                    :
+* transpose                     :
+* cofactor                      :
+* determinant                   :
+* rank                          :
+* inverse                       :
+* operator +                    :
+* operator -                    :
+* operator *                    :
+* operator *                    :
+
 
 Compile:
 ---

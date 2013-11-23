@@ -9,18 +9,18 @@ Features:
 Vector:
 
 * size
-*max
-*push_back
-*is_Empty
-*clear
-*fill_vector
-*isEqual
-*norm
-*visualize
-*operator +
-*operator -
-*operator * (double)
-*operator * (Vector)
+* max
+* push_back
+* is_Empty
+* clear
+* fill_vector
+* isEqual
+* norm
+* visualize
+* operator +
+* operator -
+* operator * (double)
+* operator * (Vector)
 
 Matrix:
 

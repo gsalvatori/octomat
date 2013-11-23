@@ -24,24 +24,24 @@ Vector:
 
 Matrix:
 
-* rows_num                      :
-* cols_num                      :
-* isNull                        :
-* fill_matrix                   :
-* print_matrix                  :
-* get_row                       :
-* get_col                       :
-* isEqual                       :
-* isDiagonal                    :
-* transpose                     :
-* cofactor                      :
-* determinant                   :
-* rank                          :
-* inverse                       :
-* operator +                    :
-* operator -                    :
-* operator *                    :
-* operator *                    :
+* rows_num                      : Returns the number of rows
+* cols_num                      : Returns the number of colums
+* isNull                        : Checks if a matrix is null
+* fill_matrix                   : Fills matrix with values
+* print_matrix                  : Prints matrix
+* get_row                       : Returns a row
+* get_col                       : Returns a col
+* isEqual                       : Check if two matrices are equals
+* isDiagonal                    : Check if a matrix is diagonal
+* transpose                     : Returns the transpose of a matrix
+* cofactor                      : Calculates cofactors
+* determinant                   : Calculates determinant
+* rank                          : Calculates rank
+* inverse                       : Returns inverse of a matrix
+* operator +                    : Operator overloading - sum two matrices
+* operator -                    : Operator overloading - sub two matrices
+* operator *                    : Operator overloading - mult a matrix with a vector
+* operator *                    : Operator overloading - mult two matrices
 
 
 Compile:

@@ -8,15 +8,15 @@ Features:
 ---
 Vector:
 
-* size                          : Return vector size
+* size                          : Returns vector size
 * max                           : Max element inside a vector
-* push_back                     : Insert element at the last position
-* is_Empty                      : Check if a vector is empty
-* clear                         : Clear vector (deletes all elements)
-* fill_vector                   : Fill vector with values
-* isEqual                       : Check if two vectors are equal
-* norm                          : Calculate the norm of a vector
-* visualize                     : Print vector
+* push_back                     : Inserts element at the last position
+* is_Empty                      : Checks if a vector is empty
+* clear                         : Clears vector (deletes all elements)
+* fill_vector                   : Fills vector with values
+* isEqual                       : Checks if two vectors are equal
+* norm                          : Calculates the norm of a vector
+* visualize                     : Prints vector
 * operator +                    : Operator overloading - sum two vectors
 * operator -                    : Operator overloading - sub two vectors
 * operator * (double)           : Operator overloading - Mult a vector with a scalar

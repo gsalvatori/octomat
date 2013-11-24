@@ -41,7 +41,7 @@ Matrix:
 * operator +                    : Operator overloading - sum two matrices
 * operator -                    : Operator overloading - sub two matrices
 * operator *                    : Operator overloading - mult a matrix with a vector
-* operator *                    : Operator overloading - mult two matrices
+* operator *                    :Operator overloading - mult two matrices
 
 
 Compile:

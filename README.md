@@ -4,7 +4,7 @@ Octomat
 
 A C++ library to solve linear algebra problems.
 
-Features:
+Features
 ---
 Vector:
 
@@ -44,14 +44,18 @@ Matrix:
 * operator *                    : Operator overloading - mult two matrices
 
 
-Compile:
+Compile
 ---
 
-* g++ -o test octomat.cpp example.cpp
+```bash
+g++ -o test octomat.cpp example.cpp
+```
 
-* ./test
+```bash
+./test
+```
 
-License:
+License
 ---
 
-GNU General Public License v3.0 - http://www.gnu.org/licenses/gpl.html
+GNU General Public License v3.0

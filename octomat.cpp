@@ -149,7 +149,7 @@ double Vector::norm(){
 
 	for(int i=0; i<main_v.size(); i++){
 
-		squares += pow(main_v[i],2);
+		squares += pow( static_cast<double> (main_v[i]),2 );
 
 	}
 

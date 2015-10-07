@@ -1,5 +1,5 @@
 #include <iostream>
-#include "examples/octomat.hpp"
+#include "../octomat.hpp"
 
 using namespace std;
 using namespace octomat;
